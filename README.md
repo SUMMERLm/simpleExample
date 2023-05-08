@@ -1,0 +1,2 @@
+# simpleExample
+golang repo publish
